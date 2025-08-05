@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 
-<br>🔭 I’m currently working on [Financial Analytics platform](https://staging.topfunds.com/)
 <br>🌱 I’m currently learning Go, Rust
 <br><br> 💬 Ask me about Python, AI, Flask, Spring boot, Django, React, Next.js,<br>
 
