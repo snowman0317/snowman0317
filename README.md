@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
+<br><br> 💬 Ask me about Python, AI, FastAPI, Flask, Spring boot, Django, React, Next.js,<br>
 <br>🌱 I’m currently learning Go, Rust
-<br><br> 💬 Ask me about Python, AI, Flask, Spring boot, Django, React, Next.js,<br>
 
 - While hiking through challenging trails, I contemplated quitting more times than I can count.
 - Yet, faced with high winds and fatigue, I persevered, reminding myself that determination is key.
