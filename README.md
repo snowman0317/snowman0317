@@ -1,4 +1,4 @@
-<h3 align="center">Senior Software Developer | 13+ Years of Experience | Expert in Full-Stack Development, AI, Cloud Solutions, Scalable Applications</h3>
+<h3 align="center">Senior Software Developer | 11 + Years of Experience | Expert in Full-Stack Development, AI, Cloud Solutions, Scalable Applications</h3>
 
 # 💫 About Me:
 
